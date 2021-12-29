@@ -1,5 +1,5 @@
 import { createClient } from 'https://cdn.skypack.dev/@supabase/supabase-js';
-import Secrets from './.secrets.js';
+import Secrets from './secrets.js';
 
 
 
